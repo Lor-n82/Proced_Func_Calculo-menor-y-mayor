@@ -1,0 +1,11 @@
+C:\Users\loren\source\repos\Proced_Func_Calculo menor y mayor\Proced_Func_Calculo menor y mayor\obj\Debug\Proced_Func_Calculo menor y mayor.vbprojResolveAssemblyReference.cache
+C:\Users\loren\source\repos\Proced_Func_Calculo menor y mayor\Proced_Func_Calculo menor y mayor\obj\Debug\Proced_Func_Calculo_menor_y_mayor.Resources.resources
+C:\Users\loren\source\repos\Proced_Func_Calculo menor y mayor\Proced_Func_Calculo menor y mayor\obj\Debug\Proced_Func_Calculo menor y mayor.vbproj.GenerateResource.Cache
+C:\Users\loren\source\repos\Proced_Func_Calculo menor y mayor\Proced_Func_Calculo menor y mayor\obj\Debug\Proced_Func_Calculo menor y mayor.vbproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\Proced_Func_Calculo menor y mayor\Proced_Func_Calculo menor y mayor\bin\Debug\Proced_Func_Calculo menor y mayor.exe.config
+C:\Users\loren\source\repos\Proced_Func_Calculo menor y mayor\Proced_Func_Calculo menor y mayor\bin\Debug\Proced_Func_Calculo menor y mayor.exe
+C:\Users\loren\source\repos\Proced_Func_Calculo menor y mayor\Proced_Func_Calculo menor y mayor\bin\Debug\Proced_Func_Calculo menor y mayor.pdb
+C:\Users\loren\source\repos\Proced_Func_Calculo menor y mayor\Proced_Func_Calculo menor y mayor\bin\Debug\Proced_Func_Calculo menor y mayor.xml
+C:\Users\loren\source\repos\Proced_Func_Calculo menor y mayor\Proced_Func_Calculo menor y mayor\obj\Debug\Proced_Func_Calculo menor y mayor.exe
+C:\Users\loren\source\repos\Proced_Func_Calculo menor y mayor\Proced_Func_Calculo menor y mayor\obj\Debug\Proced_Func_Calculo menor y mayor.xml
+C:\Users\loren\source\repos\Proced_Func_Calculo menor y mayor\Proced_Func_Calculo menor y mayor\obj\Debug\Proced_Func_Calculo menor y mayor.pdb
